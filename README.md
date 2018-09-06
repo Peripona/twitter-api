@@ -9,3 +9,5 @@ Program that queries the twitter api and lists the tweets
 * Create an app https://developer.twitter.com/en/apps
 * Collect consumer keys and tokens :: https://developer.twitter.com/en/apps/15835084
 * npm init 
+* Collect tweets and return text
+* Add graphql
