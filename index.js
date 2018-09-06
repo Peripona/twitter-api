@@ -2,7 +2,7 @@ const getTweets = require('./twitter');
 const express = require('express');
 const app = express();
 
-app.get('/', (req, res) => res.send('Hello World!'));
+app.get('/', (req, res) => res.send('Hello World! Auto deployed with Now now.'));
 
 app.get('/query/:search', (req, res) => {
  if(req.params && req.params.search){

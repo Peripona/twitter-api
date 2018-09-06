@@ -14,3 +14,6 @@ Program that queries the twitter api and lists the tweets
 * Deployed on https://twitter-api-ydiegihbws.now.sh/query/ninja
 * Extend the app to become a express frontend + backend app (use express generator)
 * Add graphql
+* Implement lazy fetching and deploy graphql version on now
+* Implement translations api as well.
+* Also now deploy now with every push automatically
