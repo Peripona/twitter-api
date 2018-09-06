@@ -11,5 +11,6 @@ Program that queries the twitter api and lists the tweets
 * npm init 
 * Collect tweets and return text
 * update docker and build with `now`
+* Deployed on https://twitter-api-ydiegihbws.now.sh/query/ninja
 * Extend the app to become a express frontend + backend app (use express generator)
 * Add graphql
